@@ -1,0 +1,10 @@
+header, *{
+    font-family: 'Rubik';
+    font-size: 22px;
+}
+footer{
+    text-align: center;
+}
+blockquote{
+    text-align: center;
+}
